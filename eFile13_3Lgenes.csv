@@ -1,0 +1,23 @@
+﻿ensemblgene,entrezgene,gene_name,path_description,path_ID
+ENSG00000136243,11097,NUP42,RNA transport,path:hsa03013
+ENSG00000135930,9470,EIF4E2,RNA transport,path:hsa03013
+ENSG00000156508,1915,EEF1A1,RNA transport,path:hsa03013
+ENSG00000130520,25804,LSM4,RNA degradation,path:hsa03018
+ENSG00000130520,25804,LSM4,Spliceosome,path:hsa03040
+ENSG00000132792,56259,CTNNBL1,Spliceosome,path:hsa03040
+ENSG00000148229,54107,POLE3,Nucleotide excision repair,path:hsa03420
+ENSG00000198121,1902,LPAR1,Rap1 signaling pathway,path:hsa04015
+ENSG00000136267,1607,DGKB,Phosphatidylinositol signaling system,path:hsa04070
+ENSG00000175634,6199,RPS6KB2,AMPK signaling pathway,path:hsa04152
+ENSG00000169100,293,SLC25A6,Cellular senescence,path:hsa04218
+ENSG00000142166,3454,IFNAR1,Osteoclast differentiation,path:hsa04380
+ENSG00000281385,161,AP2A2,Synaptic vesicle cycle,path:hsa04721
+ENSG00000183020,161,AP2A2,Synaptic vesicle cycle,path:hsa04721
+ENSG00000280759,161,AP2A2,Synaptic vesicle cycle,path:hsa04721
+ENSG00000134294,54407,SLC38A2,GABAergic synapse,path:hsa04727
+ENSG00000100077,157,GRK3,Olfactory transduction,path:hsa04740
+ENSG00000198121,1902,LPAR1,Regulation of actin cytoskeleton,path:hsa04810
+ENSG00000106631,58498,MYL7,Regulation of actin cytoskeleton,path:hsa04810
+ENSG00000144891,185,AGTR1,Renin secretion,path:hsa04924
+ENSG00000144891,185,AGTR1,Aldosterone synthesis and secretion,path:hsa04925
+ENSG00000175634,6199,RPS6KB2,Pancreatic cancer,path:hsa05212
